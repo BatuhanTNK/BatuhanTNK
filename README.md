@@ -67,9 +67,7 @@ Yapay zekâ entegrasyonlarını, kullanıcı deneyimini ve backend servislerini 
 
 QR kod oluşturma ve görsel özelleştirme, barkod üretimi, kullanıcı paneli, mini site editörü ve plan yönetiminden seçili ekranlar. Görsellere tıklayarak tam boyutta inceleyebilirsiniz.
 
-<details>
-<summary><b>Uygulama ekranlarını görüntüle (6 görsel)</b></summary>
-<br>
+<p><b>Uygulama ekranları (6 görsel)</b></p>
 <table>
 <tr>
 <td width="50%"><b>Ana sayfa</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-anasayfa.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-anasayfa.png" alt="QR Code uygulaması ana sayfası" width="100%"></a></td>
@@ -84,7 +82,7 @@ QR kod oluşturma ve görsel özelleştirme, barkod üretimi, kullanıcı paneli
 <td width="50%"><b>Planlar ve fiyatlandırma</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-planlar.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-planlar.png" alt="QR Code uygulaması plan karşılaştırması" width="100%"></a></td>
 </tr>
 </table>
-</details>
+
 
 **Diğer çalışmalar:** Virtual Try-On (React Native ve fal.ai ile görsel deneme arayüzü) ve AR navigasyon (harita, konum sensörleri ve artırılmış gerçeklik).
 
