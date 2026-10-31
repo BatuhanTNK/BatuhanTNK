@@ -51,14 +51,44 @@ Yapay zekâ entegrasyonlarını, kullanıcı deneyimini ve backend servislerini 
 <a href="https://github.com/BatuhanTNK/click_count-"><b>Kaynak kod ↗</b></a> · <sub>Mobil proje / mağazada yayımlanmadı</sub>
 </td>
 <td width="50%" valign="top">
-<h3>Web, mobil ve AI</h3>
-<p><b>Virtual Try-On</b><br>fal.ai servisleriyle giysi ve aksesuarların görsel denenmesine yönelik React Native arayüzü.</p>
-<p><b>AR navigasyon</b><br>Harita, konum sensörleri ve artırılmış gerçeklik ile ilgi noktası ve rota deneyimleri.</p>
-<p><b>Dinamik QR platformu</b><br>Özelleştirilebilir QR kodlar, toplu üretim ve tarama analitiği üzerine full stack geliştirme deneyimi.</p>
-<a href="https://batuhantnk.github.io/#/tr/deneyimler"><b>Tüm çalışmalar ve ekranlar ↗</b></a>
+<h3>QR Code Uygulaması</h3>
+<a href="#qr-code-galeri"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-panel.png" alt="QR Code uygulaması kullanıcı paneli" width="100%"></a>
+<p>Staj kapsamında geliştirdiğim QR kod ve barkod yönetim uygulaması. QR tasarım araçları, kullanım paneli ve mini site oluşturucu.</p>
+<p><sub>React · Node.js · Express · MySQL · Sequelize</sub></p>
+<a href="#qr-code-galeri"><b>Ekran görüntülerini incele ↓</b></a><br>
+<sub>Staj projesi · Canlı yayında değil</sub>
 </td>
 </tr>
 </table>
+
+## QR Code galeri
+
+**QR Code Uygulaması · Staj projesi · Canlı yayında değil**
+
+QR kod oluşturma ve görsel özelleştirme, barkod üretimi, kullanıcı paneli, mini site editörü ve plan yönetiminden seçili ekranlar. Görsellere tıklayarak tam boyutta inceleyebilirsiniz.
+
+<details>
+<summary><b>Uygulama ekranlarını görüntüle (6 görsel)</b></summary>
+<br>
+<table>
+<tr>
+<td width="50%"><b>Ana sayfa</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-anasayfa.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-anasayfa.png" alt="QR Code uygulaması ana sayfası" width="100%"></a></td>
+<td width="50%"><b>Kullanıcı paneli</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-panel.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-panel.png" alt="QR kod ve barkod özet paneli" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><b>QR kod tasarım editörü</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-tasarim.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-tasarim.png" alt="QR kod şablon ve tasarım seçenekleri" width="100%"></a></td>
+<td width="50%"><b>Barkod oluşturucu</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-barkod.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-barkod.png" alt="Barkod formatları ve önizleme ekranı" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><b>Mini site oluşturucu</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-mini-site.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-mini-site.png" alt="Bloklarla mini site oluşturma editörü" width="100%"></a></td>
+<td width="50%"><b>Planlar ve fiyatlandırma</b><br><a href="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-planlar.png"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/qr-code-planlar.png" alt="QR Code uygulaması plan karşılaştırması" width="100%"></a></td>
+</tr>
+</table>
+</details>
+
+**Diğer çalışmalar:** Virtual Try-On (React Native ve fal.ai ile görsel deneme arayüzü) ve AR navigasyon (harita, konum sensörleri ve artırılmış gerçeklik).
+
+[Tüm çalışmalar ve ekranlar ↗](https://batuhantnk.github.io/#/tr/deneyimler)
 
 ## Teknolojiler
 
