@@ -29,14 +29,14 @@ Yapay zekâ entegrasyonlarını, kullanıcı deneyimini ve backend servislerini 
 <tr>
 <td width="50%" valign="top">
 <h3>GameSkinAI</h3>
-<a href="https://batuhantnk.github.io/GameSkinAI/"><img src="https://batuhantnk.github.io/image/projects/gameskinai.jpg" alt="GameSkinAI uygulama ekranı" width="100%"></a>
+<a href="https://batuhantnk.github.io/GameSkinAI/"><img src="https://raw.githubusercontent.com/BatuhanTNK/batuhantnk.github.io/b62dc556e387e20f30559d040db68cee6553c7d0/image/projects/gameskinai.jpg" alt="GameSkinAI uygulama ekranı" width="100%"></a>
 <p>Oyun tarzı karakter üretimi, prompt kütüphanesi, üretim geçmişi ve topluluk galerisi.</p>
 <p><sub>React · Vite · Supabase · Gemini · Edge Functions</sub></p>
 <a href="https://batuhantnk.github.io/GameSkinAI/"><b>Canlı uygulama ↗</b></a> · <a href="https://github.com/BatuhanTNK/GameSkinAI">Kaynak kod</a>
 </td>
 <td width="50%" valign="top">
 <h3>İlan Asistanı</h3>
-<a href="https://github.com/BatuhanTNK/real-estate-assistant"><img src="https://batuhantnk.github.io/image/projects/ilan-asistani.jpg" alt="İlan Asistanı uygulama ekranı" width="100%"></a>
+<a href="https://github.com/BatuhanTNK/real-estate-assistant"><img src="https://raw.githubusercontent.com/BatuhanTNK/batuhantnk.github.io/b62dc556e387e20f30559d040db68cee6553c7d0/image/projects/ilan-asistani.jpg" alt="İlan Asistanı uygulama ekranı" width="100%"></a>
 <p>Mülk bilgilerini üç farklı tonda ilan metnine dönüştüren AI destekli SaaS. Hesap yönetimi, ilan geçmişi ve kullanım kotası.</p>
 <p><sub>Next.js · TypeScript · Supabase · Gemini · Tailwind CSS</sub></p>
 <a href="https://github.com/BatuhanTNK/real-estate-assistant"><b>Projeyi incele ↗</b></a>
