@@ -18,6 +18,7 @@ Yapay zekâ entegrasyonlarını, kullanıcı deneyimini ve backend servislerini 
 
 | Proje | Neler sunuyor? | Keşfet |
 | :--- | :--- | :--- |
+| **TonkJet** | 4K katmanlı kabin penceresi zoom geçişi, CSS maskeli uçak içi plan dönüşümü ve etkileşimli Three.js 3D uçuş ağı küresi sunan lüks özel jet kiralama deneyimi. | [Deneyimi aç ↗](https://tonkjet.netlify.app) |
 | **Orbit Workspace** | Klavye odaklı proje ve görev yönetimi; Kanban panosu, sprint analitiği, `⌘K` komut paleti ve sekmeler arası canlı senkronizasyon. | [Uygulamayı aç ↗](https://orbit-workspace-batuhan.netlify.app) |
 | **Verde Roastery 3D** | Three.js ve React Three Fiber ile gerçek zamanlı 3D kahve ekipmanları stüdyosu; canlı gövde rengi, ışık modu ve 360° kamera incelemesi. | [Deneyimi aç ↗](https://verde-roastery-3d.netlify.app) |
 | **Batuhan Mobilya** | Özel ölçü mobilya tasarımı ve imalatı için modern, mobil uyumlu kurumsal vitrin ve teklif web sitesi. | [Siteyi aç ↗](https://batuhantnk.github.io/batuhan-mobilya/) |
@@ -29,6 +30,15 @@ Yapay zekâ entegrasyonlarını, kullanıcı deneyimini ve backend servislerini 
 ## Seçili çalışmalar
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+<h3>TonkJet — Private Jet Charter</h3>
+<a href="https://tonkjet.netlify.app"><img src="https://raw.githubusercontent.com/BatuhanTNK/BatuhanTNK/main/tonkjet.png" alt="TonkJet 4K özel jet web deneyimi ekranı" width="100%"></a>
+<p>Sinematik, kaydırma odaklı (scrollytelling) lüks özel jet kiralama deneyimi. 4K katmanlı şeffaf kabin penceresi zoom geçişi, Gulfstream 650ER dış görünümden kabin içi plana CSS maske dönüşümü, etkileşimli Three.js WebGL 3D uçuş ağı küresi, paralaks biniş kartı ve rezervasyon çekmecesi.</p>
+<p><sub>Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · Three.js · Lenis · TopoJSON</sub></p>
+<a href="https://tonkjet.netlify.app"><b>Canlı deneyim ↗</b></a> · <a href="https://github.com/BatuhanTNK/tonkjet">Kaynak kod</a>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <h3>Orbit Workspace</h3>
